@@ -10,7 +10,7 @@ En este espacio mostraremos trabajos relacionados al analisis de datos utilizand
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 </p>
 
-En mi repositorio Project_7 muestro una aplicacion de analisis de datos
+En mi repositorio Project_7 & ventas  muestro una aplicacion de analisis de datos
 
 
 
